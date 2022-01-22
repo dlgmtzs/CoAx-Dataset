@@ -1,0 +1,8 @@
+notebook
+open3d
+pyyaml
+pandas
+numpy
+opencv-python
+transformations
+matplotlib
