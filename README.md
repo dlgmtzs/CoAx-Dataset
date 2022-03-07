@@ -36,8 +36,6 @@ ln -s PATH_TO_CoAx_DATASET/* ./data/.
 python3 -m venv venv
 source venv/bin/activate
 
-python setup.py install
-
 pip install --editable .
 
 : install requirements via cmd 
